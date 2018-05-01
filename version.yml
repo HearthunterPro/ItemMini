@@ -1,0 +1,9 @@
+Plugin: ItemMini
+Version: 1.0.0.0
+<sql
+localhost: null
+port: null
+username: null
+password: null
+db: null
+sql>
