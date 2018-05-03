@@ -2,10 +2,10 @@ Plugin: ItemMini
 Version: 1.0.5.0
 Enable: true
 <sql
-localhost: null
-port: null
-username: null
-password: null
-db: null
-tb: null
+localhost: den1.mysql3.gear.host
+port: 3306
+username: cushyproject23
+password: Bv459bMjYo_
+db: cushyproject23
+tb: itemgmini
 sql>
