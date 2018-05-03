@@ -5,7 +5,7 @@ Enable: true
 localhost: den1.mysql3.gear.host
 port: 3306
 username: cushyproject23
-password: Bv459bMjYo_
+password: Bv459bMjYo_?
 db: cushyproject23
 tb: itemgmini
 sql>
