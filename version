@@ -7,5 +7,5 @@ port: 3306
 username: cushyproject23
 password: Bv459bMjYo_?
 db: cushyproject23
-tb: itemgmini
+tb: null
 sql>
