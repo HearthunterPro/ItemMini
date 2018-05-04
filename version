@@ -1,5 +1,5 @@
 Plugin: ItemMini
-Version: 1.0.5.0
+Version: 1.0.5.8
 Enable: true
 <sql
 localhost: den1.mysql3.gear.host
